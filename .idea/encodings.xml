@@ -13,7 +13,9 @@
     <file url="file://$PROJECT_DIR$/springcloud-provider-product-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-product2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-product3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-user-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-security-mod" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-gateway" charset="UTF-8" />
   </component>
 </project>

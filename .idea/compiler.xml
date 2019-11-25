@@ -17,8 +17,10 @@
         <module name="springcloud-provider-product-hystrix" />
         <module name="springcloud-provider-product2" />
         <module name="springcloud-provider-product3" />
+        <module name="springcloud-provider-user-hystrix" />
         <module name="springcloud-security-mod" />
         <module name="springcloud-service" />
+        <module name="springcloud-zuul-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
