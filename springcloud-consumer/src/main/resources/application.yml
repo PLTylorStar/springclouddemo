@@ -1,0 +1,9 @@
+server:
+  port: 8020
+
+eureka:
+  client:
+    fetch-registry: true  #服务发现，默认为true
+    register-with-eureka: false  #服务注册，默认为true
+    service-url:
+      defaultZone: http://admin:pch@eureka1:7001/eureka/,http://admin:pch@eureka2:7002/eureka/,http://admin:pch@eureka3:7003/eureka/
